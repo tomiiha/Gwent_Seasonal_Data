@@ -1,0 +1,211 @@
+rank_tier,rank_range,deckAbilityName,winrate_pct,playrate_pct
+1,30-26,Arachas Swarm,51.7,1.34
+1,30-26,Blaze of Glory,56.61,0.16
+1,30-26,Blood Money,33.95,0.15
+1,30-26,Blood Scent,51.94,3.11
+1,30-26,Call of Harmony,53.73,0.17
+1,30-26,Carapace,45.39,21.85
+1,30-26,Congregate,48.44,0.2
+1,30-26,Deadeye Ambush,59.67,0.88
+1,30-26,Death's Shadow,48.71,2.73
+1,30-26,Doulbe Cross,44.71,1.91
+1,30-26,Enslave,55.46,0.57
+1,30-26,Force of Nature,49.84,3.63
+1,30-26,Fruits of Ysgith,69.64,3.3
+1,30-26,Guerilla Tactics,51.83,0.91
+1,30-26,Hidden Cache,63.4,0.32
+1,30-26,Imperial Formation,52.14,2.01
+1,30-26,Imposter,53.66,1.47
+1,30-26,Inspired Zeal,50.24,9.17
+1,30-26,Invigorate,45.38,8
+1,30-26,Jackpot,33.9,0.11
+1,30-26,Lined Pockets,41.03,0.08
+1,30-26,Lockdown,53.84,1.58
+1,30-26,Mahakam Forge,55.57,0.87
+1,30-26,Mobilization,53.67,0.65
+1,30-26,Mystic Echo,56.94,0.42
+1,30-26,Off the Books,48.16,0.09
+1,30-26,Onslaught,47.42,7.54
+1,30-26,Overwhelming Hunger,56.37,3.33
+1,30-26,Patricidal Fury,64.95,1.52
+1,30-26,Pincer Maneuver,59.35,1.19
+1,30-26,Precision Strike,54.8,0.69
+1,30-26,Reckless Fury,49.83,1.38
+1,30-26,Royal Inspiration,60.9,1.83
+1,30-26,Sacraficial Vanguard,41.76,0.22
+1,30-26,Second Wind,63.63,0.5
+1,30-26,Stockpile,47.89,0.51
+1,30-26,Strategic Withdrawal,42.62,9.42
+1,30-26,Tactical Decision,47.85,1.6
+1,30-26,Uprising,68.23,1.73
+1,30-26,Ursine Ritual,55.75,0.6
+1,30-26,Vicious Slash,55.56,2.2
+1,30-26,Wild Card,46.85,0.07
+2,25-15,Arachas Swarm,47.78,2.03
+2,25-15,Blaze of Glory,56.19,0.44
+2,25-15,Blood Money,39.23,0.31
+2,25-15,Blood Scent,49.79,3.73
+2,25-15,Call of Harmony,48.72,0.55
+2,25-15,Carapace,44.81,6.06
+2,25-15,Congregate,48.06,0.7
+2,25-15,Deadeye Ambush,54.48,2.57
+2,25-15,Death's Shadow,52.4,4.19
+2,25-15,Doulbe Cross,45.52,3.44
+2,25-15,Enslave,55.99,1.55
+2,25-15,Force of Nature,46.7,2.53
+2,25-15,Fruits of Ysgith,57.26,6.69
+2,25-15,Guerilla Tactics,46.54,1.69
+2,25-15,Hidden Cache,56.97,1.35
+2,25-15,Imperial Formation,55.3,2.53
+2,25-15,Imposter,48.51,3.43
+2,25-15,Inspired Zeal,44.74,2.92
+2,25-15,Invigorate,41.48,3.9
+2,25-15,Jackpot,38.78,0.28
+2,25-15,Lined Pockets,36.97,0.23
+2,25-15,Lockdown,48.03,3.76
+2,25-15,Mahakam Forge,49.05,1.69
+2,25-15,Mobilization,50.68,1.34
+2,25-15,Mystic Echo,54.6,1.47
+2,25-15,Off the Books,47.56,0.37
+2,25-15,Onslaught,42.75,2.9
+2,25-15,Overwhelming Hunger,52.9,5.82
+2,25-15,Patricidal Fury,59.26,3.46
+2,25-15,Pincer Maneuver,51.61,3.16
+2,25-15,Precision Strike,56.32,1.53
+2,25-15,Reckless Fury,48.3,1.62
+2,25-15,Royal Inspiration,49.2,3.12
+2,25-15,Sacraficial Vanguard,41.13,0.39
+2,25-15,Second Wind,59.02,1.62
+2,25-15,Stockpile,43.77,1.14
+2,25-15,Strategic Withdrawal,42.61,4
+2,25-15,Tactical Decision,48.16,2.57
+2,25-15,Uprising,56.71,4.02
+2,25-15,Ursine Ritual,52.79,1.7
+2,25-15,Vicious Slash,46.99,3.03
+2,25-15,Wild Card,46.11,0.19
+3,14-8,Arachas Swarm,45.68,1.45
+3,14-8,Blaze of Glory,56.06,0.89
+3,14-8,Blood Money,41.75,0.31
+3,14-8,Blood Scent,48.59,2.13
+3,14-8,Call of Harmony,46.35,0.69
+3,14-8,Carapace,46.15,2.39
+3,14-8,Congregate,50.65,1.24
+3,14-8,Deadeye Ambush,51.29,2.98
+3,14-8,Death's Shadow,51.3,5.25
+3,14-8,Doulbe Cross,45.46,4.96
+3,14-8,Enslave,55.77,2.37
+3,14-8,Force of Nature,43.25,1.57
+3,14-8,Fruits of Ysgith,53.77,6.17
+3,14-8,Guerilla Tactics,42.93,1.88
+3,14-8,Hidden Cache,54.84,2.33
+3,14-8,Imperial Formation,57.39,3
+3,14-8,Imposter,47.92,4.78
+3,14-8,Inspired Zeal,47.57,1.81
+3,14-8,Invigorate,36.67,1.45
+3,14-8,Jackpot,40.79,0.25
+3,14-8,Lined Pockets,39.3,0.28
+3,14-8,Lockdown,48.23,4.2
+3,14-8,Mahakam Forge,47.4,1.69
+3,14-8,Mobilization,48.32,1.72
+3,14-8,Mystic Echo,49.66,2.15
+3,14-8,Off the Books,44.23,0.56
+3,14-8,Onslaught,44.6,1.55
+3,14-8,Overwhelming Hunger,52.69,5.87
+3,14-8,Patricidal Fury,60.34,4.55
+3,14-8,Pincer Maneuver,49.64,3.61
+3,14-8,Precision Strike,57.3,1.79
+3,14-8,Reckless Fury,49.83,1.6
+3,14-8,Royal Inspiration,45.63,2.44
+3,14-8,Sacraficial Vanguard,44.51,0.61
+3,14-8,Second Wind,55.52,2.58
+3,14-8,Stockpile,42.82,1.25
+3,14-8,Strategic Withdrawal,43.84,3.72
+3,14-8,Tactical Decision,47.12,2.67
+3,14-8,Uprising,54.99,4.64
+3,14-8,Ursine Ritual,51.71,2.37
+3,14-8,Vicious Slash,43.64,2
+3,14-8,Wild Card,46.75,0.27
+4,7-1,Arachas Swarm,45.87,0.96
+4,7-1,Blaze of Glory,54.07,1.9
+4,7-1,Blood Money,43.8,0.2
+4,7-1,Blood Scent,47.67,1.46
+4,7-1,Call of Harmony,43.12,0.43
+4,7-1,Carapace,44.59,0.94
+4,7-1,Congregate,50,1.89
+4,7-1,Deadeye Ambush,48.34,1.9
+4,7-1,Death's Shadow,48.95,5.13
+4,7-1,Doulbe Cross,42.07,4.39
+4,7-1,Enslave,50.99,4.38
+4,7-1,Force of Nature,43.13,0.63
+4,7-1,Fruits of Ysgith,52.99,5.61
+4,7-1,Guerilla Tactics,39.05,1
+4,7-1,Hidden Cache,52.12,4.6
+4,7-1,Imperial Formation,52.45,4.67
+4,7-1,Imposter,45.44,2.44
+4,7-1,Inspired Zeal,45.43,1.96
+4,7-1,Invigorate,30.37,0.28
+4,7-1,Jackpot,38.64,0.14
+4,7-1,Lined Pockets,39.5,0.23
+4,7-1,Lockdown,47.78,4.52
+4,7-1,Mahakam Forge,46.11,2
+4,7-1,Mobilization,46.27,1.66
+4,7-1,Mystic Echo,45.48,1.51
+4,7-1,Off the Books,42.01,0.42
+4,7-1,Onslaught,46.16,0.52
+4,7-1,Overwhelming Hunger,55.52,6.74
+4,7-1,Patricidal Fury,61.18,8.27
+4,7-1,Pincer Maneuver,50.05,3.5
+4,7-1,Precision Strike,52.54,4.02
+4,7-1,Reckless Fury,50.96,1.15
+4,7-1,Royal Inspiration,42.54,0.91
+4,7-1,Sacraficial Vanguard,41.17,0.84
+4,7-1,Second Wind,50.23,2.75
+4,7-1,Stockpile,38.94,0.58
+4,7-1,Strategic Withdrawal,39.59,3.77
+4,7-1,Tactical Decision,46.45,1.99
+4,7-1,Uprising,53.54,5.15
+4,7-1,Ursine Ritual,51.39,3.32
+4,7-1,Vicious Slash,45.04,0.91
+4,7-1,Wild Card,43.91,0.32
+5,0,Arachas Swarm,48.14,0.84
+5,0,Blaze of Glory,54.4,2.98
+5,0,Blood Money,39.5,0.13
+5,0,Blood Scent,44.21,0.81
+5,0,Call of Harmony,38.66,0.25
+5,0,Carapace,40.46,0.33
+5,0,Congregate,48.41,1.76
+5,0,Deadeye Ambush,46.86,1.29
+5,0,Death's Shadow,47.31,3.54
+5,0,Doulbe Cross,40.66,2.37
+5,0,Enslave,47.91,3.31
+5,0,Force of Nature,40.04,0.22
+5,0,Fruits of Ysgith,51.85,5.28
+5,0,Guerilla Tactics,39.05,0.51
+5,0,Hidden Cache,50.27,8.08
+5,0,Imperial Formation,50.8,5.91
+5,0,Imposter,44.92,0.86
+5,0,Inspired Zeal,43.16,1.53
+5,0,Invigorate,22.89,0.08
+5,0,Jackpot,42.05,0.06
+5,0,Lined Pockets,39.6,0.13
+5,0,Lockdown,48.76,4.16
+5,0,Mahakam Forge,45.03,1.94
+5,0,Mobilization,43.51,1.22
+5,0,Mystic Echo,40,0.62
+5,0,Off the Books,41.44,0.38
+5,0,Onslaught,43.93,0.18
+5,0,Overwhelming Hunger,53.88,9.35
+5,0,Patricidal Fury,57.05,8.84
+5,0,Pincer Maneuver,49.27,3.44
+5,0,Precision Strike,50.53,9.06
+5,0,Reckless Fury,49.38,0.41
+5,0,Royal Inspiration,44.34,0.38
+5,0,Sacraficial Vanguard,37.16,0.5
+5,0,Second Wind,44.62,0.98
+5,0,Stockpile,34.62,0.15
+5,0,Strategic Withdrawal,38.85,2.33
+5,0,Tactical Decision,47.95,1.79
+5,0,Uprising,53.65,8.93
+5,0,Ursine Ritual,50.52,3.92
+5,0,Vicious Slash,51.13,0.91
+5,0,Wild Card,43.75,0.25
